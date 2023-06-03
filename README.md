@@ -14,6 +14,7 @@
     <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
 
+<br>
 <h2>Github Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=yacoubayo&amp;show_icons=true" alt="GitHub Stats">
 </p>
