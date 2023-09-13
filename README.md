@@ -25,5 +25,5 @@ On GitHub, I aim to share my projects and contribute to the coding community. I'
 
 <br>
 <h2>Github Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=yacoubayo&amp;show_icons=true" alt="GitHub Stats">
+<p><img src="https://github-readme-stats.vercel.app/api?username=jakobayo&amp;show_icons=true" alt="GitHub Stats">
 </p>
