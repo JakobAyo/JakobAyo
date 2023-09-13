@@ -1,6 +1,6 @@
 <h3>Hi there 👋</h3>
 <span>
-    Helle there! my name is Yacoub and I'm currently pursuing a degree in Business Informatics and I have a strong passion for coding. Throughout my studies, I've gained expertise in Java, HTML, CSS, and JavaScript. These languages have formed the foundation of my programming skills.
+    Helle there! my name is Jakob and I'm currently pursuing a degree in Business Informatics and I have a strong passion for coding. Throughout my studies, I've gained expertise in Java, HTML, CSS, and JavaScript. These languages have formed the foundation of my programming skills.
 
 During my free time, I've taken the initiative to expand my knowledge by delving into Python and Selenium. I find great joy in exploring new technologies and their practical applications. Currently, I'm focused on mastering ReactJS, as I believe it is an essential framework for building dynamic web applications.
 
