@@ -68,10 +68,6 @@ I'm a passionate Business Informatics student with a strong foundation in softwa
 
 <div align="center">
 
-![Jakob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jakobayo&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakobayo&layout=compact&theme=radical&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jakobayo&theme=radical&hide_border=true)
 
 </div>
