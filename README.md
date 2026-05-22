@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hello, I'm Jakob!
+# Hi, I'm Jakob
 
-**Business Informatics Student | AI Enthusiast | Full-Stack Developer**
+**Information Systems Graduate · Full-Stack Developer · AI & Automation**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayojakob@gmail.com)
 
@@ -10,20 +10,19 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
-I'm a passionate Business Informatics student with a strong foundation in software development and a growing interest in artificial intelligence. Currently exploring the fascinating world of AI capabilities and building projects that leverage AI APIs for intelligent solutions.
+Information Systems graduate with a focus on software development, AI, and automation. I build full-stack applications and study how modern AI tooling can be applied to real, practical problems.
 
-**What drives me:**
-- 🧠 **AI Exploration**: Experimenting with various AI models and APIs
-- 🎨 **Design Skills**: Continuously improving my UI/UX design capabilities
-- 🔧 **Automation**: Discovering and implementing new automation technologies
-- 💻 **Clean Code**: Writing maintainable, efficient software
-- 🔄 **Continuous Learning**: Always expanding my skill set
+**Areas of interest:**
+- **AI** — understanding model capabilities and integrating AI APIs into applications
+- **Automation** — designing workflows that remove repetitive work and improve consistency
+- **UI/UX** — building clean, usable interfaces
+- **Software craftsmanship** — writing maintainable, well-structured code
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
-### 💻 **Operating System & Development**
+### Operating System & Development
 <p>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/>
@@ -31,7 +30,7 @@ I'm a passionate Business Informatics student with a strong foundation in softwa
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-### 🌐 **Frontend Development**
+### Frontend Development
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -42,7 +41,7 @@ I'm a passionate Business Informatics student with a strong foundation in softwa
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
-### ⚙️ **Backend & Languages**
+### Backend & Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -50,7 +49,7 @@ I'm a passionate Business Informatics student with a strong foundation in softwa
   <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
 </p>
 
-### 🗄️ **Database & DevOps**
+### Database & DevOps
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
@@ -58,14 +57,11 @@ I'm a passionate Business Informatics student with a strong foundation in softwa
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
 </p>
 
-## 🔥 Currently Exploring
+## Currently Learning
 
-- **AI Integration**: Building projects with AI APIs and machine learning capabilities
-- **Design Excellence**: Improving UI/UX design skills and creating visually appealing interfaces
-- **Automation Technologies**: Discovering and implementing new automation solutions
-- **Modern Web Technologies**: Enhancing user experiences with cutting-edge solutions
+I'm focused on deepening my understanding of AI — how modern models work, where they fit, and how to apply them responsibly in real systems. Alongside that, I'm investing time in automation: studying the tools, patterns, and integrations that allow software to run reliably with minimal manual intervention.
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -73,9 +69,9 @@ I'm a passionate Business Informatics student with a strong foundation in softwa
 
 </div>
 
-## 📫 Get In Touch!
+## Get In Touch
 
-I'm currently exploring new opportunities and would love to connect! Feel free to reach out if you'd like to discuss technology, AI, or potential collaborations.
+I'm open to conversations around software, AI, and automation — feel free to reach out.
 
 <div align="center">
 
@@ -86,11 +82,6 @@ I'm currently exploring new opportunities and would love to connect! Feel free t
 ---
 
 <div align="center">
-
-### ⚡ **Fun Fact**
-> *I use Arch btw! 🐧*
-
-**Thanks for visiting my profile! Have a great day!** ✨
 
 ![Visitors](https://komarev.com/ghpvc/?username=jakobayo&color=blueviolet&style=flat-square)
 
